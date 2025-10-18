@@ -1,5 +1,6 @@
-scikit-learn
 pandas
-xgboost
+numpy
 matplotlib
-seaborn
+plotly
+joblib
+scikit-learn
